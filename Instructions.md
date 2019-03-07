@@ -14,6 +14,7 @@ I hope you'll like it! :) </p>
 * <b>pip install python3</b>
 * <b>pip install virtualenv</b> -> once done <b>run virtualenv venv</b>, then <b>source venv/bin/activate</b> (to enter in the virtual environment)
 * from inside the virtual environment <b>run pip install pandas numpy ipywidgets jupyter</b>
+* after the <b>ipywidgets</b> are installed <b>run jupyter nbextension enable --py widgetsnbextension</b>;it should return a message ending with <i>Validating: OK</i>
 * lastly, <b>run jupyter notebook</b> in the folder command line
 4. The browser will open and show all the contents of the cloned repo. Two files contain the raw data that was analyzed and the <i>.ipynb</i> document is the part that can be used to track the median time calculation.
 5. Open the .ipynb file and check the <b>chapter 5</b>: inside are the widgets for choosing the date and hours of reference.
