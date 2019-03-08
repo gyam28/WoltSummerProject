@@ -2,8 +2,8 @@
 
 ## Pick-up median time ##
 
-<p>I recently got to see this years' Wolt project and decided to present here my Python Jupyter notebook version of solution for Wolt Summer Coding Task 2019.
-In order to run the pick-up time I decided to go for widgets that make the code more interactive and reduce the risk of errors when selecting the desired timeframe analysis.
+<p>I recently got to see this years' Wolt project and decided to present here my Python Jupyter notebook solution for the Wolt Summer Coding Task 2019. The following link will redirect you to the original contest task list: <a href="https://github.com/woltapp/summer2019">click to see</a>.</p>
+<p>In order to run the pick-up time I decided to go for widgets that make the code more interactive and reduce the risk of errors when selecting the desired timeframe analysis.
 I hope you'll like it! :) </p>
 
 ## Steps for running and using the file ##
